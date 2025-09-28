@@ -1,0 +1,7 @@
+Brand: Toyota;
+Model: Supra;
+Registration: AA-AA-AA;
+
+Brand: Mitsubishi;
+Model: Lancer;
+Registration: BB-BB-BB;
